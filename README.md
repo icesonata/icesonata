@@ -1,4 +1,4 @@
-### oh boi, another bio to write, stay tuned guys
+### oh wow, another bio to write
 
 <!--
 **icesonata/icesonata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
