@@ -14,5 +14,5 @@ I'm a student growing up in Vietnam. I love jogging and sometime swimming. I am 
 - 📫 How to reach me: you can reach me via [email](mailto:long.h.nguyen16@gmail.com) or [twitter](https://twitter.com/longng216).
 <!-- - 😄 Pronouns: ... -->
 - 😄 I'm looking for opportunities to do cool things, work with other people and learn from them.
-- 😅 Fun fact: I get into the coffee shop but not ordering for the coffee.
+- 😅 Fun fact: I like memes and usually search for it on youtube.
 
