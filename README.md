@@ -3,7 +3,7 @@
 <!--
 **icesonata/icesonata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+I'm a student growing up in Vietnam. I love jogging and sometime swimming. I am interested in leadership and how far I can accomplish with the open mind and positive thought which I was influenced by other people who are doing cool things all over the world. 
 
 - 🎓 I'm currently a junior in college.
 - 🔭 I’m currently working on school stuffs and myself stuffs.
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: you can reach me via [email](mailto:long.h.nguyen16@gmail.com) or [twitter](https://twitter.com/longng216).
 <!-- - 😄 Pronouns: ... -->
-- 😄 I'm looking for opportunity to learn new things from other people.
-- ⚡ Fun fact: I love jogging and working at the coffee shop. 
+- 😄 I'm looking for opportunity to do cool things, work with other people and learn from them.
+- 😅 Fun fact: I get into the coffee shop but not ordering for the coffee.
 
