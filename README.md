@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: you can reach me via long.h.nguyen16@gmail.com or [twitter](https://twitter.com/longng216).
+- 📫 How to reach me: you can reach me via [email](mailto:long.h.nguyen16@gmail.com) or [twitter](https://twitter.com/longng216).
 <!-- - 😄 Pronouns: ... -->
 - 😄 I'm looking for opportunity to learn new things from other people.
 - ⚡ Fun fact: I love jogging and working at the coffee shop. 
