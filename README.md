@@ -13,6 +13,6 @@ I'm a student growing up in Vietnam. I love jogging and sometime swimming. I am 
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: you can reach me via [email](mailto:long.h.nguyen16@gmail.com) or [twitter](https://twitter.com/longng216).
 <!-- - 😄 Pronouns: ... -->
-- 😄 I'm looking for opportunities to do cool things, work with other people and learn from them.
+- ✨ I'm looking for opportunities to work with projects related to machine learning to gain experience and sharpen my skills.
 - 😅 Fun fact: I like memes and have a list of hundreds of memes on youtube.
 
