@@ -16,3 +16,12 @@ I'm a student growing up in Vietnam. I love jogging and sometime swimming. I am 
 - ✨ I'm looking for opportunities to work with projects related to machine learning to gain experience and sharpen my skills.
 - 😅 Fun fact: I like memes and have a list of hundreds of meme on youtube.
 
+<table><tr><td align="center" width="55%">
+  
+[![Guoqing's github stats](https://github-readme-stats.vercel.app/api?username=DreamWaterFound&count_private=true&show_icons=true&theme=dark)](https://github.com/DreamWaterFound/github-readme-stats)
+
+</td><td align="top" width="45%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamWaterFound&layout=compact&theme=dark)](https://github.com/DreamWaterFound/github-readme-stats)
+
+</td></tr></table>
