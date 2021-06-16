@@ -18,10 +18,10 @@ I'm a student growing up in Vietnam. I love jogging and sometime swimming. I am 
 
 <table><tr><td align="center" width="55%">
   
-[![Guoqing's github stats](https://github-readme-stats.vercel.app/api?username=DreamWaterFound&count_private=true&show_icons=true&theme=dark)](https://github.com/DreamWaterFound/github-readme-stats)
+[![Guoqing's github stats](https://github-readme-stats.vercel.app/api?username=icesonata&count_private=true&show_icons=true&theme=dark)](https://github.com/icesonata/github-readme-stats)
 
 </td><td align="top" width="45%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamWaterFound&layout=compact&theme=dark)](https://github.com/DreamWaterFound/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icesonata&layout=compact&theme=dark)](https://github.com/icesonata/github-readme-stats)
 
 </td></tr></table>
