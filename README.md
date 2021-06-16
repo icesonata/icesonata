@@ -16,7 +16,7 @@ I'm a student growing up in Vietnam. I love jogging and sometime swimming. I am 
 - ✨ I'm looking for opportunities to work with projects related to machine learning to gain experience and sharpen my skills.
 - 😅 Fun fact: I like memes and have a list of hundreds of meme on youtube.
 
-<table><tr><td align="center" width="55%">
+<!-- <table><tr><td align="center" width="55%">
   
 ![Long's github stats](https://github-readme-stats.vercel.app/api?username=icesonata&count_private=true&show_icons=true&theme=dark)
 
@@ -25,3 +25,4 @@ I'm a student growing up in Vietnam. I love jogging and sometime swimming. I am 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icesonata&layout=compact&theme=dark)](https://github.com/icesonata/github-readme-stats)
 
 </td></tr></table>
+ -->
