@@ -18,7 +18,7 @@ I'm a student growing up in Vietnam. I love jogging and sometime swimming. I am 
 
 <table><tr><td align="center" width="55%">
   
-[![Guoqing's github stats](https://github-readme-stats.vercel.app/api?username=icesonata&count_private=true&show_icons=true&theme=dark)](https://github.com/icesonata/github-readme-stats)
+![Long's github stats](https://github-readme-stats.vercel.app/api?username=icesonata&count_private=true&show_icons=true&theme=dark)
 
 </td><td align="top" width="45%">
 
